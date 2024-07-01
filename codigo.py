@@ -1,4 +1,4 @@
-nombre = "cristian Guillermo"
+nombre = "Gael"
 apellido = "Romero"
 segundoApellido = "Garcia"
 
