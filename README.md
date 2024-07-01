@@ -1,4 +1,4 @@
-# cursoGit
+# Titulo chido
 repo creado para el curso
 
 ## descripción
